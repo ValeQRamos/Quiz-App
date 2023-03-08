@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'vue-quiz'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A4543CDFA6A947B48E63954B9208DF86 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E74435B882A5425E851C8B7EF13E4CE8 }}
           package: .
